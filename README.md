@@ -21,7 +21,7 @@ Data Analysis/Visualization, and BERT Binary-classification for Taghche Dataset 
         In this file, Taghche data is cleaned and preprocessed using HAZM Preprocessing Package (For Farsi language).
         There are some data visualizations using matplotlib plotly visualization tool.
         Some analysis regarding the comments length, unigram and bi-grams features in the comments,the comments rating and the number of likes for each comment has done in this file.
-        Also, the most frequent words in comments is shown via Persina Word Cloud. 
+        Also, the most frequent words in comments is shown via Persian Word Cloud. 
     
 ##    - bert_finetune_taghcheh.py
         Using 'bert-base-multilingual-uncased' model with pytorch, the data is finetuned and classified. I did a binary classification as below:
