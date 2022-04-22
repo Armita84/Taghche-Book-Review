@@ -1,2 +1,2 @@
 # Taghche-Book-Review
-Data Analysis and Visualization in addition to BERT Binary-classification in Taghche Book comments and reviews
+Data Analysis/Visualization, and BERT Binary-classification for Taghche Dataset (Persian Book comments and reviews)
